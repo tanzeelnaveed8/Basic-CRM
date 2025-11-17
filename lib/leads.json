@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1762148555423,
+    "name": "Ethan Taylor",
+    "company": "Blue Sky Digital",
+    "leadSource": "LinkedIn",
+    "priority": "Medium",
+    "phone": "+1 680 532 8761",
+    "email": "ethan.taylor@blueskydig.io",
+    "address": "Chicago, IL, USA",
+    "product": "AI Customer Service Bot",
+    "status": "Existing",
+    "platforms": {
+      "whatsapp": "+16805328761",
+      "googlesheets": "docs.google.com/spreadsheets/d/393904"
+    },
+    "notes": "Follow up in 2 weeks.",
+    "lastContacted": "2025-10-04T04:42:35.423Z",
+    "createdAt": "2025-10-04T02:42:35.423Z"
+  },
+  {
+    "id": 1762148555426,
+    "name": "James Cooper",
+    "company": "Horizon Systems",
+    "leadSource": "Website",
+    "priority": "High",
+    "phone": "+1 886 666 7989",
+    "email": "jcooper@horizonsys.com",
+    "address": "San Antonio, TX, USA",
+    "product": "Sales Automation Software",
+    "status": "Existing",
+    "platforms": {
+      "whatsapp": "+18866667989",
+      "googledrive": "drive.google.com/drive/f/576813",
+      "googlesheets": "docs.google.com/spreadsheets/d/625078"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-25T02:42:35.425Z",
+    "createdAt": "2025-10-24T23:42:35.425Z"
+  },
+  {
+    "id": 1762148555427,
+    "name": "Alexander Young",
+    "company": "Apex Strategies LLC",
+    "leadSource": "Industry Event",
+    "priority": "High",
+    "phone": "+1 771 833 8021",
+    "email": "alexander.young@apexstrate.io",
+    "address": "New York, NY, USA",
+    "product": "AI Customer Service Bot",
+    "status": "Existing",
+    "platforms": {
+      "linkedin": "linkedin.com/in/alexander-young",
+      "twitter": "@alexander82",
+      "googlesheets": "docs.google.com/spreadsheets/d/452987"
+    },
+    "notes": "High potential client, needs custom pricing.",
+    "lastContacted": "2025-10-28T10:42:35.425Z",
+    "createdAt": "2025-10-28T07:42:35.425Z"
+  },
+  {
+    "id": 1762148555428,
+    "name": "Emily Clark",
+    "company": "Zenith Financial Services",
+    "leadSource": "LinkedIn",
+    "priority": "High",
+    "phone": "+1 414 439 2889",
+    "email": "emily@zenithfina.io",
+    "address": "Philadelphia, PA, USA",
+    "product": "Sales Automation Software",
+    "status": "New",
+    "platforms": {
+      "twitter": "@emily19",
+      "googlesheets": "docs.google.com/spreadsheets/d/423872"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-27T16:42:35.425Z",
+    "createdAt": "2025-10-27T14:42:35.425Z"
+  },
+  {
+    "id": 1762148555430,
+    "name": "William Fisher",
+    "company": "Cornerstone Consulting",
+    "leadSource": "Referral",
+    "priority": "Low",
+    "phone": "+1 990 842 8341",
+    "email": "william.fisher@cornerston.net",
+    "address": "Houston, TX, USA",
+    "product": "Cloud Storage Integration",
+    "status": "New",
+    "platforms": {
+      "whatsapp": "+19908428341",
+      "googledrive": "drive.google.com/drive/f/670922",
+      "googlesheets": "docs.google.com/spreadsheets/d/672237"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-04T06:42:35.425Z",
+    "createdAt": "2025-10-04T02:42:35.425Z"
+  },
+  {
+    "id": 1762148555431,
+    "name": "Emma Adams",
+    "company": "Synergy Analytics",
+    "leadSource": "Cold Email",
+    "priority": "Low",
+    "phone": "+1 712 663 6634",
+    "email": "emma@synergyana.com",
+    "address": "Phoenix, AZ, USA",
+    "product": "Marketing Automation Tool",
+    "status": "New",
+    "platforms": {
+      "linkedin": "linkedin.com/in/emma-adams",
+      "googledrive": "drive.google.com/drive/f/692780"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-19T09:42:35.425Z",
+    "createdAt": "2025-10-19T06:42:35.425Z"
+  },
+  {
+    "id": 1762148555432,
+    "name": "Liam Baker",
+    "company": "Quantum Ventures",
+    "leadSource": "LinkedIn",
+    "priority": "Low",
+    "phone": "+1 383 484 6990",
+    "email": "liam@quantumven.iooo",
+    "address": "San Diego, CA, USA",
+    "product": "Sales Automation Software",
+    "status": "Existing",
+    "platforms": {
+      "whatsapp": "+13834846990",
+      "linkedin": "linkedin.com/in/liam-baker",
+      "twitter": "@liam60",
+      "googlesheets": "docs.google.com/spreadsheets/d/668773"
+    },
+    "notes": "High potential client, needs custom pricing.",
+    "lastContacted": "2025-10-25T19:42:35.425Z",
+    "createdAt": "2025-10-25T18:42:35.425Z"
+  },
+  {
+    "id": 1762148555433,
+    "name": "Jacob Scott",
+    "company": "Pinnacle Dynamics",
+    "leadSource": "Referral",
+    "priority": "Medium",
+    "phone": "+1 692 323 8008",
+    "email": "jacob.scott@pinnacledy.com",
+    "address": "San Diego, CA, USA",
+    "product": "Data Analytics Suite",
+    "status": "Existing",
+    "platforms": {
+      "twitter": "@jacob10",
+      "googledrive": "drive.google.com/drive/f/787064"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-22T19:42:35.425Z",
+    "createdAt": "2025-10-22T17:42:35.425Z"
+  },
+  {
+    "id": 1762148555434,
+    "name": "Charlotte Perez",
+    "company": "Horizon Systems",
+    "leadSource": "Industry Event",
+    "priority": "Medium",
+    "phone": "+1 971 708 3506",
+    "email": "charlotte@horizonsys.com",
+    "address": "Phoenix, AZ, USA",
+    "product": "Cloud Storage Integration",
+    "status": "New",
+    "platforms": {
+      "linkedin": "linkedin.com/in/charlotte-perez",
+      "twitter": "@charlotte2",
+      "googlesheets": "docs.google.com/spreadsheets/d/581977"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-22T22:42:35.425Z",
+    "createdAt": "2025-10-22T18:42:35.425Z"
+  },
+  {
+    "id": 1762148555435,
+    "name": "Sophia White",
+    "company": "Global Tech Partners",
+    "leadSource": "Website",
+    "priority": "Low",
+    "phone": "+1 277 455 5046",
+    "email": "sophia.white@globaltech.io",
+    "address": "Dallas, TX, USA",
+    "product": "Project Management Software",
+    "status": "New",
+    "platforms": {
+      "linkedin": "linkedin.com/in/sophia-white",
+      "twitter": "@sophia83",
+      "googledrive": "drive.google.com/drive/f/898146"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-23T07:42:35.425Z",
+    "createdAt": "2025-10-23T03:42:35.425Z"
+  },
+  {
+    "id": 1762148555436,
+    "name": "Ethan Taylor",
+    "company": "Prime Logistics Corp.",
+    "leadSource": "Referral",
+    "priority": "Low",
+    "phone": "+1 416 157 3500",
+    "email": "ethan.taylor@primelogis.commmm",
+    "address": "Dallas, TX, USA",
+    "product": "AI Customer Service Bot",
+    "status": "Existing",
+    "platforms": {
+      "linkedin": "linkedin.com/in/ethan-taylor",
+      "twitter": "@ethan14",
+      "googledrive": "drive.google.com/drive/f/952545"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-21T15:42:35.425Z",
+    "createdAt": "2025-10-21T14:42:35.425Z"
+  },
+  {
+    "id": 1762148555437,
+    "name": "William Fisher",
+    "company": "Apex Strategies LLC",
+    "leadSource": "Cold Email",
+    "priority": "Medium",
+    "phone": "+1 940 975 9461",
+    "email": "william.fisher@apexstrate.io",
+    "address": "San Jose, CA, USA",
+    "product": "Sales Automation Software",
+    "status": "Existing",
+    "platforms": {
+      "linkedin": "linkedin.com/in/william-fisher",
+      "twitter": "@william99",
+      "googledrive": "drive.google.com/drive/f/506676",
+      "googlesheets": "docs.google.com/spreadsheets/d/997290"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-12T13:42:35.425Z",
+    "createdAt": "2025-10-12T12:42:35.425Z"
+  },
+  {
+    "id": 1762148555438,
+    "name": "William Fisher",
+    "company": "Cornerstone Consulting",
+    "leadSource": "Industry Event",
+    "priority": "Medium",
+    "phone": "+1 750 327 8233",
+    "email": "william.fisher@cornerston.net",
+    "address": "Dallas, TX, USA",
+    "product": "Project Management Software",
+    "status": "Existing",
+    "platforms": {
+      "linkedin": "linkedin.com/in/william-fisher",
+      "twitter": "@william53",
+      "googledrive": "drive.google.com/drive/f/424848",
+      "googlesheets": "docs.google.com/spreadsheets/d/840697"
+    },
+    "notes": "High potential client, needs custom pricing.",
+    "lastContacted": "2025-10-16T08:42:35.425Z",
+    "createdAt": "2025-10-16T04:42:35.425Z"
+  },
+  {
+    "id": 1762148555440,
+    "name": "Ethan Taylor",
+    "company": "Pinnacle Dynamics",
+    "leadSource": "Industry Event",
+    "priority": "Low",
+    "phone": "+1 871 591 6434",
+    "email": "ethan@pinnacledy.io",
+    "address": "Philadelphia, PA, USA",
+    "product": "Sales Automation Software",
+    "status": "Existing",
+    "platforms": {
+      "whatsapp": "+18715916434",
+      "linkedin": "linkedin.com/in/ethan-taylor",
+      "twitter": "@ethan62",
+      "googledrive": "drive.google.com/drive/f/320364"
+    },
+    "notes": "No notes available.",
+    "lastContacted": "2025-10-22T06:42:35.426Z",
+    "createdAt": "2025-10-22T04:42:35.426Z"
+  },
+  {
+    "id": 1762148555441,
+    "name": "Madison Lee",
+    "company": "Synergy Analytics",
+    "leadSource": "Industry Event",
+    "priority": "Medium",
+    "phone": "+1 406 925 3193",
+    "email": "madison@synergyana.io",
+    "address": "Los Angeles, CA, USA",
+    "product": "Data Analytics Suite",
+    "status": "New",
+    "platforms": {
+      "whatsapp": "+14069253193",
+      "twitter": "@madison55",
+      "googledrive": "drive.google.com/drive/f/427770",
+      "googlesheets": "docs.google.com/spreadsheets/d/246237"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-04T10:42:35.426Z",
+    "createdAt": "2025-10-04T08:42:35.426Z"
+  },
+  {
+    "id": 1762148555442,
+    "name": "Daniel Harris",
+    "company": "Blue Sky Digital",
+    "leadSource": "Industry Event",
+    "priority": "Low",
+    "phone": "+1 237 835 7804",
+    "email": "dharris@blueskydig.net",
+    "address": "San Antonio, TX, USA",
+    "product": "Cloud Storage Integration",
+    "status": "New",
+    "platforms": {
+      "whatsapp": "+12378357804",
+      "googledrive": "drive.google.com/drive/f/934258"
+    },
+    "notes": "Follow up in 2 weeks.",
+    "lastContacted": "2025-10-18T18:42:35.426Z",
+    "createdAt": "2025-10-18T15:42:35.426Z"
+  },
+  {
+    "id": 1762148555443,
+    "name": "Liam Baker",
+    "company": "Zenith Financial Services",
+    "leadSource": "LinkedIn",
+    "priority": "High",
+    "phone": "+1 592 292 7515",
+    "email": "liam.baker@zenithfina.io",
+    "address": "New York, NY, USA",
+    "product": "Sales Automation Software",
+    "status": "New",
+    "platforms": {
+      "whatsapp": "+15922927515",
+      "linkedin": "linkedin.com/in/liam-baker",
+      "googledrive": "drive.google.com/drive/f/460661",
+      "googlesheets": "docs.google.com/spreadsheets/d/673028"
+    },
+    "notes": "Requested a demo for the platform.",
+    "lastContacted": "2025-10-29T18:42:35.426Z",
+    "createdAt": "2025-10-29T17:42:35.426Z"
+  },
+  {
+    "id": 1762148555444,
+    "name": "Mia Carter",
+    "company": "Global Tech Partners",
+    "leadSource": "Cold Email",
+    "priority": "High",
+    "phone": "+1 915 147 8483",
+    "email": "mcarter@globaltech.com",
+    "address": "Chicago, IL, USA",
+    "product": "Project Management Software",
+    "status": "Existing",
+    "platforms": {
+      "whatsapp": "+19151478483",
+      "twitter": "@mia19"
+    },
+    "notes": "Interested in Q4 deployment.",
+    "lastContacted": "2025-10-25T21:42:35.426Z",
+    "createdAt": "2025-10-25T20:42:35.426Z"
+  }
+]

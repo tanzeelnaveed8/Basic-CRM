@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1762145116360",
+    "email": "ali.khan@granule.com",
+    "name": "Ali Khan",
+    "role": "Full-Stack Developer",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116361",
+    "email": "priya.sharma@granule.com",
+    "name": "Priya Sharma",
+    "role": "Data Analyst",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116362",
+    "email": "ahmed.butt@granule.com",
+    "name": "Ahmed Butt",
+    "role": "Frontend Developer",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116363",
+    "email": "rhea.singh@granule.com",
+    "name": "Rhea Singh",
+    "role": "Product Manager",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116364",
+    "email": "imran.malik@granule.com",
+    "name": "Imran Malik",
+    "role": "Backend Developer (Node.js)",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116365",
+    "email": "neha.patel@granule.com",
+    "name": "Neha Patel",
+    "role": "UX/UI Designer",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116366",
+    "email": "omar.siddiqui@granule.com",
+    "name": "Omar Siddiqui",
+    "role": "DevOps Engineer",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116367",
+    "email": "vijay.menon@granule.com",
+    "name": "Vijay Menon",
+    "role": "Sales Manager",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116368",
+    "email": "ayesha.baig@granule.com",
+    "name": "Ayesha Baig",
+    "role": "QA Engineer",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116369",
+    "email": "aditi.rao@granule.com",
+    "name": "Aditi Rao",
+    "role": "Marketing Specialist",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116370",
+    "email": "farooq.lodhi@granule.com",
+    "name": "Farooq Lodhi",
+    "role": "Cloud Architect",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116371",
+    "email": "rohit.gupta@granule.com",
+    "name": "Rohit Gupta",
+    "role": "Technical Writer",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116372",
+    "email": "sara.hassan@granule.com",
+    "name": "Sara Hassan",
+    "role": "Customer Support Lead",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116373",
+    "email": "kiran.joshi@granule.com",
+    "name": "Kiran Joshi",
+    "role": "Financial Analyst",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116374",
+    "email": "wajid.shah@granule.com",
+    "name": "Wajid Shah",
+    "role": "Mobile App Developer (Android)",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116375",
+    "email": "isha.verma@granule.com",
+    "name": "Isha Verma",
+    "role": "HR Coordinator",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116376",
+    "email": "zain.abbasi@granule.com",
+    "name": "Zain Abbasi",
+    "role": "Database Administrator",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116377",
+    "email": "sandeep.reddy@granule.com",
+    "name": "Sandeep Reddy",
+    "role": "Business Development Executive",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116378",
+    "email": "madiha.aziz@granule.com",
+    "name": "Madiha Aziz",
+    "role": "Social Media Manager",
+    "country": "Pakistan",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "id": "1762145116379",
+    "email": "harsh.mittal@granule.com",
+    "name": "Harsh Mittal",
+    "role": "Scrum Master",
+    "country": "India",
+    "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  }
+]
